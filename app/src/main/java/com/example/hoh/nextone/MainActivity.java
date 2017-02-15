@@ -45,8 +45,8 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-        Intent nextIntent = new Intent(this, UserLoginActivity.class);
-        startActivity(nextIntent);
+       // Intent nextIntent = new Intent(this, UserLoginActivity.class);
+        //startActivity(nextIntent);
     }
 
     @Override
